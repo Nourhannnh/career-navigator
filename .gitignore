@@ -52,4 +52,6 @@ Thumbs.db
 .replitignore
 .replit-artifact/
 replit.nix
+replit.md
+.agents/
 .env
